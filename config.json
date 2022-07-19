@@ -1,11 +1,11 @@
 {
-	"token": "MzM1OTE2ODIyNjgxNDg1MzEz.DEwucQ.KltxvVpPpZoZx7q_Q3tA_GvwiG0",
-	"prefix": "19",
+	"token": "Token",
+	"prefix": "!",
 	"servers": [
-		"291631661089554435"
+		"SERVER_ID"
 	
 	],
-	"roleName": "Rainbow",
+	"roleName": "ROLE_NAME",
 	"colors": 15,
 	"speed": 800,
 	"logging": true
