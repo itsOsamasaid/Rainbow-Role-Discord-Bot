@@ -57,7 +57,7 @@ client.login(config.token);
 console.log("I am On!");
 
 client.on('ready', () => {
-    client.user.setGame(' By.OS ❤ احب صمله ','https://www.twitch.tv/v5bz');
+    client.user.setGame(' By.OS ','https://www.twitch.tv/v5bz');
     client.user.setStatus('Do Not Disturb');
 });  
 
